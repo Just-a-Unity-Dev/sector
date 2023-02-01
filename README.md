@@ -1,5 +1,9 @@
 # Sector
 
+> "Hello, I am your XPert, the NOK librarian. Though, you can call me PER, standing for Perceptional Exceptional Responder. If you have any questions, you can search in my query console. Keep quiet in the NOK, please. My nodes don't like it when the sound sensors get overloaded."
+
+<img alt="xpert" src="./images/jokes/xpert.png" width=300 align="right">
+
 **Sector** is a Sci-Fi universe, you can read it [here](https://just-a-unity-dev.github.io/sector/).
 
 ## Notice
@@ -8,7 +12,7 @@ This website is essentially a fancy book, there will rarely (if ever) be an Out 
 
 ## Origin
 
-Originally came from a single Dungeons & Dragons campaign during winter break is now a whole universe with diplomacy and more to enjoy, the Sectors are growing every day.
+Originally came from a single Dungeons & Dragons campaign during winter break is now a whole universe with diplomacy and more to enjoy, the different sectors in the Quadrant are growing every day.
 
 ## Inspirations
 
