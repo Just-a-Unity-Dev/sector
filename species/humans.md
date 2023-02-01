@@ -1,6 +1,6 @@
 # Humans (Human)
 
-Humans are the base for all species, they are boring and uninteresting; not to mention they are everywhere, being the most common species by far.
+All species are subsets of human, they are boring and uninteresting; not to mention they are everywhere, being the most common species by far.
 
 ## Appearance
 
@@ -16,4 +16,4 @@ Human life originated in the Sol system, specifically on Earth, evolving from th
 
 ## Post Genetic Expansion
 
-Humans mainly divided into either the [Union](../factions/organization/human_union.md) or the [Federation](../factions/governments/federation.md).
+Humans mainly divided into either the [Union](../factions/organization/human_union.md) or the [Federation](../factions/governments/federation.md) - as the Genetic Expansion caused mass drama in the entire Quadrant, being the main cause for the war.
