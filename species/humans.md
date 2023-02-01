@@ -1,2 +1,19 @@
 # Humans (Human)
-  Humans are boring and uninteresting.
+
+Humans are the base for all species, they are boring and uninteresting; not to mention they are everywhere, being the most common species by far.
+
+## Appearance
+
+Humans look like humans, what else is there?
+
+## Anatomy
+
+Humans have human organs, what else is there?
+
+## Origin
+
+Human life originated in the Sol system, specifically on Earth, evolving from the apes.
+
+## Post Genetic Expansion
+
+Humans mainly divided into either the [Union](../factions/organization/human_union.md) or the [Federation](../factions/governments/federation.md).
