@@ -1,6 +1,6 @@
 # Planetkillers
 
-> "This level of technology is classified beyond Federation level `Administrator 5+`."
+> "This level of technology is classified beyond NOK level `Administrator 5+`."
 >
 > \>`48a4c859e78815fbb986d0beac86ed86.md5`
 >

@@ -6,12 +6,17 @@
 <meta name="msapplication-TileColor" content="#da532c">
 <meta name="msapplication-config" content="/sector/images/favicon/browserconfig.xml">
 
-<meta property="og:title" content="Federation Grand Network Of Knowledge">
+<meta property="og:title" content="Network Of Knowledge">
 <meta property="og:description" content="All recorded knowledge on the Quadrant.">
 <meta property="og:image" content="/sector/images/favicon/android-chrome-512x512.png">
 <meta name="theme-color" content="#190E19" data-react-helmet="true">
 
 <style>
+    :root {
+        --bg: #111;
+        --fg: #fff;
+    }
+
     .page-heading {
         display: none !important; 
     }
@@ -19,14 +24,14 @@
         display: none !important;
     }
     .site-header{
-        border-top: 1px solid #111 !important;
-        border-bottom: 1px solid #111 !important;
+        border-top: 1px solid var(--bg) !important;
+        border-bottom: 1px solid var(--bg) !important;
     }
     .site-footer {
         display: none !important;
     }
     .site-nav {
-        background-color: #111 !important;
+        background-color: var(--bg) !important;
     }
 
     .post-content h1,
@@ -40,6 +45,6 @@
     }
 
     body {
-        background-color: #111 !important;
+        background-color: var(--bg) !important;
     }
 </style>

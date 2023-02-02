@@ -6,9 +6,8 @@ Not really one *unified* faction but rather a Syndicate of bandits, thieves, smu
 
 Pirates have existed even before the Federation, and even before we got into space. Pirates used to be on boats, stealing from whoever they saw!
 
-Now? Pirates still pirate, and compared to their former selves, they're much more powerful!
+Pirates still pirate, and compared to their former selves, they're much more powerful, wielding stolen weaponry such as laser weaponry and forcefully boarding without getting any near close as their former selves.
 
 ## Diplomatic Chart
 
-- **Allies:** None
 - **Enemies:** All

@@ -1,16 +1,8 @@
-# Federation Grand Network Of Knowledge
+# Network Of Knowledge | Main Page
 
-> "Hello, I am your XPert, the FGNOK librarian. Though, you can call me PER. If you have any questions, you can search in my query console. Keep quiet in the FGNOK, please."
+> "Hello, I am your XPert, the NOK librarian. Though, you can call me PER, standing for Perceptional Exceptional Responder. If you have any questions, you can search in my query console. Keep quiet in the NOK, please. My nodes don't like it when the sound sensors get overloaded."
 
-## Get Started
-
-New to the universe? You can read the [Brief Explanation](brief_explanation) to read what's up, and if you wish to know it all, you can read the [FGNOK index](page_index)! If you wish to get inspiration on writing about a new faction, new technology or more then you can take a look at articles such as the [Tauri Corporation](factions/tauri), [Quadrantal Federation](factions/federation) and the [BEOWULF](factions/minor/beowulf).
-
-## XPert
-
-**XPert** is the AI that manages the FGNOK, though usually it doesn't make sense. You are able to help out **XPert** by [contributing here](https://github.com/Just-a-Unity-Dev/sector)! New contributions are always welcome.
-
-![xpert](images/jokes/xpert.png)
+The Network of Knowledge is a library of information gathered through multiple sources such as anonymous submissions, interviews of countless people from countless sides, the secrecy of the NOK and years of piecing together information by an underpaid AI. If you are reading this, you are most likely one of the few people in the Quadrant (or beyond!) to gather almost **all information on seperate sides**, this includes (but are not limited to) intelligence agencies, massacres, cults, classified documents, and more.
 
 ## Things to keep in mind
 
