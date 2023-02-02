@@ -7,5 +7,3 @@ A genetic distortion of humans due to failed cloning technology. Catgirls, other
 ## Anatomy
 
 ## Origin
-
-## Post Genetic Expansion

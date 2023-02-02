@@ -7,5 +7,3 @@ Living remains of what used to be human. Cannot feel pain, immunity to most dise
 ## Anatomy
 
 ## Origin
-
-## Post Genetic Expansion

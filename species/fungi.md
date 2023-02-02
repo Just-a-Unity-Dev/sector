@@ -1,6 +1,6 @@
 # Fungi (Fungus)
 
-Fungi-like organisms on a widespread scale. Heat can kill them easily.
+Fungi organisms combined with a human body
 
 ## Appearance
 
